@@ -99,9 +99,7 @@ We welcome contributions to improve the Course Recommendation System. Here's how
 
 For any questions or feedback, feel free to reach out:
 
-- **Ganesh Chowdhary P** – pinnamaneniganesh24@gmail.com
-- GitHub: [Ganesh Chowdhary P](https://github.com/ganesh2409)
+- **Debjyoti Dutta** – debjyoti.dutta.505@gmail.com
 ```
-Made with ❤️ ( ͡• ͜ʖ ͡• ) Follow for more  ... :) 
 ``` 
 
