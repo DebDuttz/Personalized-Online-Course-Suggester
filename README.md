@@ -102,7 +102,7 @@ For any questions or feedback, feel free to reach out:
 - **Debjyoti Dutta** – debjyoti.dutta.505@gmail.com
 - **Abhishek Kumar** – bittu8826.kumar@gmail.com
 - **Mohammad Mujamil** – mujamilh61@gmail.com
-- **Ashutosh Sharma** – ashuto17091@gmail.com
+- **Ashutosh Sharma** – ashuto17091@gmail.com 
 ```
 ``` 
 
