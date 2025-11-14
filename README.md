@@ -82,7 +82,7 @@ To directly use the project from Docker Hub
    docker run -p 8501:8501 ganeshpinnamaneni/course-recommendation-system:latest
    ```
 
-3. **Access the web app** at [http://localhost:8501](http://localhost:8501).
+3. **Access the web app** at [[http://localhost:8501](http://localhost:8501)](https://personnal-course-recommendation-aeip9t2blxb94md9zt65ds.streamlit.app/).
 
 
 ## Contributing 🤝
